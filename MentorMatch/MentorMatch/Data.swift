@@ -8,6 +8,7 @@
 import Foundation
 import SwiftUI
 
+//This and associated code borrowed from Paul at HackingWithSwift.com
 class Users: ObservableObject{
     static let shared = Users()
     
