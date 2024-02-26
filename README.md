@@ -3,7 +3,7 @@
 
 [devpost.com/software/mentor-match-x762n0](https://devpost.com/software/mentor-match-x762n0)
 
-This project was completely created in 24 hours. All code by Sarah Haddix.
+This project was completely created in 24 hours.
 
 ## Inspiration
 When brainstorming ideas for an app, we considered how our own team is constructed of women in various technologically rich fields who have experienced the search for advice, research opportunities, and connections in the industry without really knowing where to look first. Thus came the idea of MentorMatch.
@@ -28,3 +28,8 @@ We believe that these foundations promise great things for Mentor Match. For sta
 
 ## Built with
 Swift, SwiftUI, Figma
+
+<br>
+<br>
+
+All code by Sarah Haddix.
