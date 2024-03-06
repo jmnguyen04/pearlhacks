@@ -1,9 +1,7 @@
 # MentorMatch: Pearlhacks24 Submission
-![](https://github.com/jmnguyen04/pearlhacks/Demo.gif)
+<img src="./Demo.gif" alt="any alternative text you want" width=25% height=25%>
 
 [devpost.com/software/mentor-match-x762n0](https://devpost.com/software/mentor-match-x762n0)
-
-This project was completely created in 24 hours.
 
 ## Inspiration
 When brainstorming ideas for an app, we considered how our own team is constructed of women in various technologically rich fields who have experienced the search for advice, research opportunities, and connections in the industry without really knowing where to look first. Thus came the idea of MentorMatch.
